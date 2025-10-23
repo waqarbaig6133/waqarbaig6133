@@ -1,9 +1,10 @@
 - 👋 Hi, <em>I’m Waqar Abbas Baig</em>
-- 👀 I will be studying at Concordia University and persue a Bachelors in Computer Science
-- 🌱 I’m currently learning Web dev for a project, API calling, DSA
+- 👀 I study at Concordia University for a Bachelors in Computer Science
+- 🌱 I’m currently doing some CV, Database and Machine Learning for a Vehicle Image Classifier.
 - 📫 How to reach me: <a href = "https://www.linkedin.com/in/waqar-abbas-baig-4939472b1/">Linkedin</a> <a href = "waqar.baig6133@gmail.com">Email</a>
 
-Tech Stack: <b>C</b>, <b>Python</b>
+Tech Stack: <b>C</b>, <b>Python, Java</b>
+
 
 
 
@@ -12,8 +13,8 @@ Tech Stack: <b>C</b>, <b>Python</b>
 
 
 - ⚡ Fun fact: <br>
-    Hobbies: Draw, solve random Tiktok/Instagram Math problems when scrolling, sleep at 3 a.m., drink beverages filled with Aspartame <br>
-    Me: Pakistani, 20 years old, Born-Raised in Canada
+    Hobbies: Doom scrolling the math section on Insta/Tiktok, Messing up my sleep schedule, Diet Coke <br>
+    Me: Pakistani, 21 years old, Born-Raised in Canada
 
 <!---
 waqarbaig6133/waqarbaig6133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
