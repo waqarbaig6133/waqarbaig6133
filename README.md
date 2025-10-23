@@ -14,7 +14,7 @@ Tech Stack: <b>C</b>, <b>Python, Java</b>
 
 - ⚡ Fun fact: <br>
     Hobbies: Doom scrolling the math section on Insta/Tiktok, Messing up my sleep schedule, Diet Coke <br>
-    Me: Pakistani, 21 years old, Born-Raised in Canada
+    Me: Pakistani-Canadian, 21 years old.
 
 <!---
 waqarbaig6133/waqarbaig6133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
