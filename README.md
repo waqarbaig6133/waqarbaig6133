@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waqar Abbas Baig</h1>
 <h3 align="center">Aspiring Software Developer, Concordia CS Student</h3>
 
-- 🔭 I’m currently working on **AutoNerve: CNN-ViT Car Brand Classifier**
-
 - 🌱 I’m currently learning **Pytorch, SQL, and some Backend stuff**
 
 - 📫 How to reach me **waqar.baig613@gmail.com**
